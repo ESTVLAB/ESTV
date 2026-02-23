@@ -1,0 +1,19 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.devnet]
+estv = "7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY"
+
+[programs.mainnet]
+estv = "7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "mainnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
