@@ -19,7 +19,11 @@
   <img src="https://img.shields.io/badge/Blockchain-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
   <img src="https://img.shields.io/badge/Token-SPL-00D18C?style=for-the-badge" alt="SPL Token"/>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
-  <img src="https://img.shields.io/badge/Audit-Pending-orange?style=for-the-badge" alt="Audit"/>
+  <img src="https://img.shields.io/badge/Audit-Scheduled-orange?style=for-the-badge" alt="Audit"/>
+</p>
+
+<p align="center">
+  <strong>English</strong> | <a href="README_KO.md">한국어</a>
 </p>
 
 ---
