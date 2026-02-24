@@ -1,0 +1,34 @@
+version: 2
+updates:
+  # Rust/Cargo dependencies
+  - package-ecosystem: "cargo"
+    directory: "/programs/estv"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "deps(rust):"
+    labels:
+      - "dependencies"
+      - "rust"
+
+  # NPM dependencies
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "deps(npm):"
+    labels:
+      - "dependencies"
+      - "javascript"
+
+  # GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "deps(actions):"
+    labels:
+      - "dependencies"
+      - "ci"
