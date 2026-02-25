@@ -4,6 +4,21 @@ All notable changes to the ESTV project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.1.0] - 2026-02-25
+
+### Added
+- **BitMart Exchange Listing** - ESTV/USDT trading opens Feb 26, 2026 19:00 KST
+- BitMart badge and trade section in README
+- Exchange listing info in Korean README
+- Trading information in FAQ
+- Treasury status with Squads multisig custody info
+
+### Changed
+- Updated roadmap with BitMart listing milestone
+- Updated sprint tracking with listing status
+
+---
+
 ## [1.0.1] - 2026-02-25
 
 ### Added
