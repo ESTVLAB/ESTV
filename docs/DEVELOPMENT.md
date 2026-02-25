@@ -14,7 +14,7 @@
 | Treasury → Squads migration | ✅ Complete | 100% |
 | Team token distribution | ⏳ Pending | 0% |
 | Security audit prep | 🔄 In Progress | 50% |
-| Exchange integration | 🔄 In Progress | 30% |
+| BitMart listing | ✅ Complete | 100% (Feb 26 open) |
 
 ---
 
