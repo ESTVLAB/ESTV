@@ -8,6 +8,7 @@
 - **GitHub Repository Launch** - Official ESTV token repository published
 - **Documentation Complete** - Full technical and legal documentation available
 - **CI/CD Pipeline Active** - Automated testing and security checks enabled
+- **Treasury Migration Complete** - All tokens moved to Squads multisig foundation wallet
 - **Documentation Expansion** - Added development tracking, media page, and update schedule
 - **README Enhanced** - Documentation section added with quick navigation links
 
