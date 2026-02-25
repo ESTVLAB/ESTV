@@ -130,7 +130,13 @@ Comm    ░░░░████████████░░░░░░░░
 - Exclusive content access
 - Governance weight multiplier
 
-## Supply Management
+## Treasury Management
+
+### Custody
+- **Wallet**: Squads Protocol Multisig (Foundation-controlled)
+- **Migration**: Completed (Personal → Squads Foundation)
+- **Team Distribution**: Pending — will follow vesting schedule per category
+- **Security**: Multi-signature approval required for all transfers
 
 ### Treasury Policy
 - Maximum supply is fixed at 1B tokens
