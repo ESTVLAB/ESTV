@@ -119,6 +119,39 @@ Community     ░░░░░░▓▓▓▓▓▓▓▓▓▓░░░░░░
 
 ---
 
+## Treasury Status
+
+### Current Custody
+
+| Item | Status |
+|------|--------|
+| **Treasury Wallet** | Squads Multisig (Foundation) |
+| **Migration** | Personal Wallet → Squads Complete |
+| **Team Distribution** | Pending |
+| **Custody Model** | Multi-signature (Squads Protocol) |
+
+### Distribution Progress
+
+```
+Foundation Treasury (Squads)
+═══════════════════════════════════════════════════
+Total Held          ████████████████████████████████ 1,000,000,000 ESTV
+
+Distributed:
+  Team/Founders     ░░░░░░░░░░░░░░░  0 / 150,000,000  (Pending)
+  Development       ░░░░░            0 / 50,000,000   (Pending)
+  Partnership       ░░░░░░░░         0 / 80,000,000   (Pending)
+  Ecosystem         ░░░░░░░░░░░░░░░░ 0 / 200,000,000  (Pending)
+  Liquidity         ░░░░░░░░░░░░░░░░ 0 / 200,000,000  (Pending)
+  Community         ░░░░░░░░         0 / 80,000,000   (Pending)
+  Early Particip.   ░░░░░░░          0 / 70,000,000   (Pending)
+  Long-term Fund    ░░░░░░░░░░░░░░░░ 0 / 170,000,000  (Pending)
+```
+
+> All tokens are currently held in the Foundation Squads multisig wallet. Team and category-based distributions will follow according to the vesting schedule.
+
+---
+
 ## Key Addresses
 
 ### Contract
