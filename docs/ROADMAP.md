@@ -25,9 +25,11 @@ Operational readiness, compliance-based core infrastructure
 - [ ] Performance optimization
 
 #### 1.3 Security Audit & Review
-- [ ] Third-party smart contract audit (Hacken / CertiK)
+- [x] Audit partner selection (CertiK - primary)
+- [ ] CertiK smart contract audit engagement
+- [ ] CertiK KYC team verification
 - [ ] Security improvements based on findings
-- [ ] Audit report publication
+- [ ] Audit report publication & Skynet badge
 
 #### 1.4 Strategic Partnerships
 - [x] E-sports content/distribution partnerships
