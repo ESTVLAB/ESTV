@@ -16,6 +16,14 @@ ESTV is built on Solana blockchain for high throughput and low transaction costs
 ### What is the total supply of ESTV?
 1,000,000,000 (1 billion) ESTV tokens.
 
+### Where can I trade ESTV?
+
+| Exchange | Pair | Launch |
+|----------|------|--------|
+| BitMart | ESTV/USDT | Feb 26, 2026 19:00 KST (10:00 UTC) |
+
+More exchange listings are planned. Follow our official channels for updates.
+
 ---
 
 ## Token Utility
