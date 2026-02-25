@@ -4,6 +4,19 @@ All notable changes to the ESTV project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.0.1] - 2026-02-25
+
+### Added
+- Development updates and sprint tracking (`docs/DEVELOPMENT.md`)
+- News and community updates page (`docs/NEWS.md`)
+- Media and press coverage documentation (`docs/MEDIA.md`)
+- Repository update schedule guide (`docs/UPDATE_SCHEDULE.md`)
+
+### Changed
+- Updated documentation links in README
+
+---
+
 ## [1.0.0] - 2026-02-23
 
 ### Added
