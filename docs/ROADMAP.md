@@ -113,7 +113,7 @@ Phased community participation, global operational expansion
          ├─ Smart Contract Audit
          ├─ Super App Beta (Private)
          ├─ EWC Partnership Official
-         └─ Exchange Listings
+         └─ ✅ Exchange Listing (BitMart - Feb 26)
 
 2026 Q2-Q3 ──────────────────────────────────────────────────────►
          │
