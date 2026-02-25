@@ -211,6 +211,17 @@ Available on 100+ countries through major OTT platforms including Roku, Amazon F
 
 ---
 
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [Development Updates](docs/DEVELOPMENT.md) | Sprint tracking and technical metrics |
+| [News & Updates](docs/NEWS.md) | Latest announcements and milestones |
+| [Media & Press](docs/MEDIA.md) | Press coverage and brand assets |
+| [FAQ](docs/FAQ.md) | Frequently asked questions |
+| [Tokenomics](docs/TOKENOMICS.md) | Detailed token economics |
+| [Integration Guide](docs/INTEGRATION.md) | Exchange and wallet integration |
+
 ## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
