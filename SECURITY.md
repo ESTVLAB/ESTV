@@ -39,6 +39,12 @@ Please include:
 
 We are currently developing a bug bounty program. Details will be announced on our official channels.
 
+### Treasury Security
+
+- **Custody**: Squads Protocol Multisig (Foundation wallet)
+- **Access Control**: Multi-signature approval required for all token transfers
+- **Migration**: Completed from personal wallet to institutional-grade multisig
+
 ### Smart Contract Security
 
 Our smart contracts undergo:
