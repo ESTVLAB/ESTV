@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Token-SPL-00D18C?style=for-the-badge" alt="SPL Token"/>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/Audit-Scheduled-orange?style=for-the-badge" alt="Audit"/>
+  <img src="https://img.shields.io/badge/Exchange-BitMart-00B897?style=for-the-badge" alt="BitMart"/>
 </p>
 
 <p align="center">
@@ -52,6 +53,12 @@
 | **Contract Address** | `7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY` |
 | **Total Supply** | 1,000,000,000 ESTV |
 | **Decimals** | 9 |
+
+### Trade ESTV
+
+| Exchange | Pair | Launch |
+|----------|------|--------|
+| **BitMart** | ESTV/USDT | Feb 26, 2026 19:00 KST |
 
 ### View on Explorers
 
