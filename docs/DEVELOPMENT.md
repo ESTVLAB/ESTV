@@ -11,6 +11,8 @@
 | GitHub repository setup | ✅ Complete | 100% |
 | Documentation suite | ✅ Complete | 100% |
 | CI/CD pipeline | ✅ Complete | 100% |
+| Treasury → Squads migration | ✅ Complete | 100% |
+| Team token distribution | ⏳ Pending | 0% |
 | Security audit prep | 🔄 In Progress | 50% |
 | Exchange integration | 🔄 In Progress | 30% |
 
