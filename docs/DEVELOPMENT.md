@@ -13,7 +13,7 @@
 | CI/CD pipeline | ✅ Complete | 100% |
 | Treasury → Squads migration | ✅ Complete | 100% |
 | Team token distribution | ⏳ Pending | 0% |
-| Security audit prep | 🔄 In Progress | 50% |
+| CertiK audit (RFQ) | 🔄 In Progress | 25% |
 | BitMart listing | ✅ Complete | 100% (Feb 26 open) |
 
 ---
@@ -47,7 +47,7 @@
 
 | Priority | Issue | Status |
 |----------|-------|--------|
-| High | Security audit | Scheduled |
+| High | CertiK audit | RFQ in Progress |
 | Medium | SDK development | Planned |
 | Low | Multi-language docs | In Progress |
 
