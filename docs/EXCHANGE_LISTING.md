@@ -1,5 +1,15 @@
 # Exchange Listing Information
 
+## Listed Exchanges
+
+| Exchange | Pair | Listing Date | Status |
+|----------|------|-------------|--------|
+| **BitMart** | ESTV/USDT | Feb 26, 2026 19:00 KST | Confirmed |
+
+> Trading opens February 26, 2026 at 19:00 KST (10:00 UTC)
+
+---
+
 ## Quick Reference for Exchanges
 
 ### Token Details
