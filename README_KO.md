@@ -52,6 +52,12 @@
 | **총 발행량** | 1,000,000,000 ESTV |
 | **소수점** | 9 |
 
+### 거래소
+
+| 거래소 | 거래쌍 | 상장일 |
+|--------|--------|--------|
+| **BitMart** | ESTV/USDT | 2026년 2월 26일 오후 7시 (KST) |
+
 ### 익스플로러에서 확인
 
 - [Solscan](https://solscan.io/token/7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY)
