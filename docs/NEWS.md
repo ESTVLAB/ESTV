@@ -6,6 +6,7 @@
 
 #### Week 4 (Feb 24-28)
 - **🔥 BitMart Listing Confirmed** - ESTV/USDT trading opens Feb 26, 19:00 KST (10:00 UTC)
+- **CertiK Audit Initiated** - RFQ submitted for smart contract audit & KYC verification
 - **GitHub Repository Launch** - Official ESTV token repository published
 - **Documentation Complete** - Full technical and legal documentation available
 - **CI/CD Pipeline Active** - Automated testing and security checks enabled
@@ -33,6 +34,7 @@
 ### Q1 2026
 - [ ] Security audit completion (CertiK/Hacken)
 - [x] Exchange listing (BitMart - Feb 26, 2026)
+- [ ] CertiK smart contract audit (RFQ submitted)
 - [ ] CoinMarketCap / CoinGecko registration
 
 ### Q2 2026
