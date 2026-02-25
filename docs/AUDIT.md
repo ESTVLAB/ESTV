@@ -4,15 +4,18 @@
 
 | Audit Type | Auditor | Status | Report |
 |------------|---------|--------|--------|
-| Smart Contract | CertiK / Hacken | Scheduled Q1 2026 | Pending |
+| Smart Contract | CertiK (Primary) | RFQ in Progress | Pending |
+| KYC Verification | CertiK KYC | Planned | Pending |
+| Code Review | Internal | ✅ Completed | Internal |
 | Penetration Test | TBD | Planned | - |
-| Code Review | Internal | Completed | Internal |
 
 ---
 
-## Planned Audits
+## Audit Strategy
 
-### Smart Contract Audit
+### Phase 1: CertiK Smart Contract Audit (Primary)
+
+ESTV has selected **CertiK** as the primary audit partner for its industry-leading reputation and comprehensive Solana audit capabilities.
 
 **Scope**:
 - Token contract on Solana
@@ -21,15 +24,53 @@
 - Access control and permissions
 - Emergency functions
 
-**Auditors Under Consideration**:
-- CertiK
-- Hacken
-- SlowMist
-- OtterSec (Solana specialist)
+**Estimated Investment**:
 
-**Timeline**: Q1 2026
+| Component | Range |
+|-----------|-------|
+| Smart Contract Audit | $15,000 - $35,000 |
+| KYC Team Verification | $3,000 - $5,000 |
+| **Total** | **$18,000 - $40,000** |
 
-### Penetration Testing
+> Estimate based on ESTV's medium-high technical complexity (Rust/Anchor, Merkle tree, multi-sig admin).
+
+**Expected Timeline**:
+
+```
+RFQ Submission  →  Onboarding  →  Audit Period  →  Report
+    Week 1          Week 2-3       Week 4-7        Week 8
+                                                     │
+                                              Final Report
+                                              & Skynet Badge
+```
+
+### Phase 2: CertiK KYC Verification
+
+Team identity verification through CertiK's KYC program to enhance project credibility on CoinMarketCap, CoinGecko, and exchange listings.
+
+### Phase 3: Ongoing Monitoring
+
+- CertiK Skynet security score tracking
+- Continuous vulnerability monitoring
+- Real-time alert system
+
+---
+
+## Alternative Auditors Evaluated
+
+| Auditor | Specialization | Consideration |
+|---------|---------------|---------------|
+| **CertiK** | Full-stack blockchain security | ✅ Primary — industry standard, Skynet integration |
+| **OtterSec** | Solana-native specialist | Shortlisted — deep Solana/Anchor expertise |
+| **Sec3 (Anza)** | Solana automated + manual | Evaluated — strong automated tooling |
+| **Halborn** | Multi-chain audits | Evaluated — flexible engagement models |
+| **Neodyme** | Solana security research | Evaluated — strong Solana track record |
+
+> CertiK was selected for its exchange recognition, CoinMarketCap/CoinGecko integration, and comprehensive Skynet monitoring platform.
+
+---
+
+## Penetration Testing
 
 **Scope**:
 - Platform infrastructure
