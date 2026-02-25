@@ -8,6 +8,8 @@
 - **GitHub Repository Launch** - Official ESTV token repository published
 - **Documentation Complete** - Full technical and legal documentation available
 - **CI/CD Pipeline Active** - Automated testing and security checks enabled
+- **Documentation Expansion** - Added development tracking, media page, and update schedule
+- **README Enhanced** - Documentation section added with quick navigation links
 
 #### Week 3 (Feb 17-23)
 - **Bitmarket Listing Preparation** - Exchange listing process initiated
@@ -57,4 +59,4 @@
 
 ---
 
-*Last updated: February 24, 2026*
+*Last updated: February 25, 2026*
