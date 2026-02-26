@@ -56,9 +56,9 @@
 
 ### Trade ESTV
 
-| Exchange | Pair | Launch |
+| Exchange | Pair | Status |
 |----------|------|--------|
-| **BitMart** | ESTV/USDT | Feb 26, 2026 19:00 KST |
+| **BitMart** | ESTV/USDT | 🟢 Live (Feb 26, 2026) |
 
 ### View on Explorers
 
