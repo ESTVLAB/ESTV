@@ -5,7 +5,7 @@
 ### February 2026
 
 #### Week 4 (Feb 24-28)
-- **🔥 BitMart Listing Confirmed** - ESTV/USDT trading opens Feb 26, 19:00 KST (10:00 UTC)
+- **🔥 BitMart Listing LIVE** - ESTV/USDT trading launched Feb 26, 19:00 KST (10:00 UTC)
 - **CertiK Audit Initiated** - RFQ submitted for smart contract audit & KYC verification
 - **GitHub Repository Launch** - Official ESTV token repository published
 - **Documentation Complete** - Full technical and legal documentation available
@@ -63,4 +63,4 @@
 
 ---
 
-*Last updated: February 25, 2026*
+*Last updated: February 26, 2026*
