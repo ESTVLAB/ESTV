@@ -4,9 +4,9 @@
 
 | Exchange | Pair | Listing Date | Status |
 |----------|------|-------------|--------|
-| **BitMart** | ESTV/USDT | Feb 26, 2026 19:00 KST | Confirmed |
+| **BitMart** | ESTV/USDT | Feb 26, 2026 19:00 KST | 🟢 Live Today |
 
-> Trading opens February 26, 2026 at 19:00 KST (10:00 UTC)
+> **NOW TRADING** — ESTV/USDT on BitMart. February 26, 2026 at 19:00 KST (10:00 UTC)
 
 ---
 
