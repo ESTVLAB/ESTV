@@ -18,11 +18,11 @@ ESTV is built on Solana blockchain for high throughput and low transaction costs
 
 ### Where can I trade ESTV?
 
-| Exchange | Pair | Launch |
+| Exchange | Pair | Status |
 |----------|------|--------|
-| BitMart | ESTV/USDT | Feb 26, 2026 19:00 KST (10:00 UTC) |
+| BitMart | ESTV/USDT | 🟢 Live |
 
-More exchange listings are planned. Follow our official channels for updates.
+Additional exchange listings are planned. Follow our official channels for updates.
 
 ---
 
