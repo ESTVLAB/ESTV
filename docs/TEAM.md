@@ -145,4 +145,15 @@ Team members can be verified through:
 
 ---
 
+## Key Milestones Achieved
+
+| Date | Milestone | Led By |
+|------|-----------|--------|
+| Q4 2025 | Token deployment on Solana | CTO |
+| Q1 2026 | Whitepaper v1.0 release | CEO |
+| Feb 2026 | BitMart exchange listing | CEO / BD |
+| Feb 2026 | Squads multisig treasury setup | CTO |
+
+---
+
 *Team information as of Q1 2026. Subject to updates.*
