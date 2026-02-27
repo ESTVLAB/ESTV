@@ -38,28 +38,32 @@ Development              █████ 5%
 - **TGE**: 0%
 - **Cliff**: None
 - **Vesting**: 48 months (monthly)
+- **Wallet**: `5KCK5gpu1rbcZALP8pDEZnFGRgB5GAp8GgZRCbSU6GgV`
 
-#### 2. Long-term Ecosystem Fund (17% - 170,000,000 ESTV)
+#### 2. Long-term Ecosystem Development (17% - 170,000,000 ESTV)
 - **Purpose**: Infrastructure investment, M&A, strategic reserves
 - **TGE**: 0%
 - **Cliff**: 24 months lockup
 - **Vesting**: 24 months post-lockup
+- **Wallet**: `DyujGTjzC1b6DzogQf7vjCgLsTuK3MPLonrU4yBFZvKx`
 
 #### 3. Liquidity & Operations (20% - 200,000,000 ESTV)
 - **Purpose**: DEX/CEX liquidity, operational stability, market making
 - **TGE**: 5%
 - **Cliff**: None
-- **Vesting**: 12-24 months
+- **Vesting**: 24 months
 - **Breakdown**:
   - 5% at listing
   - 15% for strategic partnerships & MM reserves
+- **Wallet**: `7g8DLJsPXoC2mHhioEczgvkc4x72ucEa5smqHoVaXukR`
 
 #### 4. Community Distribution (8% - 80,000,000 ESTV)
 - **Purpose**: Airdrops, campaigns, regional distribution
-- **TGE**: 3%
+- **TGE**: 0%
 - **Cliff**: 6 months
 - **Vesting**: 10 months (monthly)
 - **Note**: KYC/regional compliance required
+- **Wallet**: `2c2zfjZ1f8e3RuGisKEYEv1Yrwmstgy3q4HmA4o1EJPN`
 
 #### 5. Development (5% - 50,000,000 ESTV)
 - **Purpose**: Core development funding
@@ -67,38 +71,46 @@ Development              █████ 5%
 - **Cliff**: 12 months
 - **Vesting**: 36 months (monthly)
 - **Executor**: Foundation/Multi-sig
+- **Wallet**: `E8xPzrwGTbj5R2LMiwPeqXPD7mTG6rM9Svjv7jgUdAZy`
 
 #### 6. Partnership & Growth (8% - 80,000,000 ESTV)
 - **Purpose**: Strategic partnerships, ecosystem expansion
 - **TGE**: 0%
 - **Cliff**: None
 - **Vesting**: Quarterly based on milestones
+- **Wallet**: `DgtpvncHA9MT4QhoccDSVacLgEt2Jj4PMovNcxdFhbDN`
 
 #### 7. Early Participants (7% - 70,000,000 ESTV)
 - **Purpose**: Strategic partners, OTC deals
-- **TGE**: 5%
-- **Cliff**: 12 months
+- **TGE**: 0%
+- **Cliff**: 4 months
 - **Vesting**: 12 months (monthly)
 - **Restrictions**: No hedging allowed
+- **Wallet**: `6c8QZ138DUXarhmXym6hDmW84V5oQvzpHDvDxpAYxEi3`
 
 #### 8. Team / Founders (15% - 150,000,000 ESTV)
 - **Purpose**: Core team allocation
 - **TGE**: 0%
 - **Cliff**: 12 months
-- **Vesting**: 36 months
+- **Vesting**: 36 months (monthly)
 - **Note**: Performance-linked
+- **Wallet**: `XNmi836Bz1ctTDv9Jh2puYYdVvVBUCNW6ChAUWjfSGj`
 
 ## Vesting Schedule Visualization
 
 ```
-Month:  0   6   12  18  24  30  36  42  48
-        │   │   │   │   │   │   │   │   │
-Team    ░░░░░░░░████████████████████████░░ (12mo cliff, 36mo vest)
-Dev     ░░░░░░░░████████████████████████░░ (12mo cliff, 36mo vest)
-Early   ░░░░░░░░████████████░░░░░░░░░░░░░░ (12mo cliff, 12mo vest)
-Eco     ████████████████████████████████████ (48mo linear)
-Liq     ████████████████████░░░░░░░░░░░░░░ (5% TGE, 12-24mo)
-Comm    ░░░░████████████░░░░░░░░░░░░░░░░░░ (6mo cliff, 10mo vest)
+Month:  0   4   6   12  18  24  30  36  42  48
+        │   │   │   │   │   │   │   │   │   │
+Eco     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (48mo linear)
+Long    ░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓ (24mo lock + 24mo vest)
+Liq     █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ (5% TGE + 24mo vest)
+Comm    ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ (6mo cliff + 10mo vest)
+Dev     ░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (12mo cliff + 36mo vest)
+Partn   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (quarterly milestones)
+Early   ░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░ (4mo cliff + 12mo vest)
+Team    ░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (12mo cliff + 36mo vest)
+
+█ = TGE Release    ▓ = Vesting    ░ = Locked
 ```
 
 ## Token Utility
