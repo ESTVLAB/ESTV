@@ -65,10 +65,10 @@ docs(readme): update installation instructions
 
 ### Prerequisites
 
-- Rust 1.70+
-- Solana CLI 1.16+
-- Anchor Framework 0.29+
-- Node.js 18+
+- Rust 1.75+
+- Solana CLI 1.18+
+- Anchor Framework 0.30+
+- Node.js 20+
 
 ### Local Development
 
