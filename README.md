@@ -76,12 +76,12 @@
 | Category | Allocation | Amount | TGE | Cliff | Vesting |
 |----------|------------|--------|-----|-------|---------|
 | Ecosystem Rewards | 20% | 200,000,000 | 0% | 0 mo | 48 mo (monthly) |
-| Long-term Ecosystem Fund | 17% | 170,000,000 | 0% | 24 mo | 24 mo lockup |
-| Liquidity & Operations | 20% | 200,000,000 | 5% | 0 mo | 12-24 mo |
-| Community Distribution | 8% | 80,000,000 | 3% | 6 mo | 10 mo (monthly) |
+| Long-term Ecosystem Dev | 17% | 170,000,000 | 0% | 24 mo | 24 mo lockup |
+| Liquidity & Operations | 20% | 200,000,000 | 5% | 0 mo | 24 mo |
+| Community Distribution | 8% | 80,000,000 | 0% | 6 mo | 10 mo (monthly) |
 | Development | 5% | 50,000,000 | 0% | 12 mo | 36 mo (monthly) |
 | Partnership & Growth | 8% | 80,000,000 | 0% | 0 mo | Quarterly |
-| Early Participants | 7% | 70,000,000 | 5% | 12 mo | 12 mo (monthly) |
+| Early Participants | 7% | 70,000,000 | 0% | 4 mo | 12 mo (monthly) |
 | Team / Founders | 15% | 150,000,000 | 0% | 12 mo | 36 mo |
 
 ---
