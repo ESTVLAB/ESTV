@@ -23,7 +23,7 @@
   "contract": "7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY",
   "decimals": 9,
   "totalSupply": "1000000000",
-  "circulatingSupply": "TBD",
+  "circulatingSupply": "10000000",
   "maxSupply": "1000000000"
 }
 ```
