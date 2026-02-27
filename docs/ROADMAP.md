@@ -137,7 +137,7 @@ Phased community participation, global operational expansion
 
 | Metric | Current | Q2 2026 Target | Q4 2026 Target |
 |--------|---------|----------------|----------------|
-| Unique Viewers | 29.6M | 40M | 50M |
+| Unique Viewers | 30M+ | 40M | 50M |
 | Sessions | 43.9M | 60M | 80M |
 | Watch Minutes | 124.8M | 200M | 300M |
 | Distribution Countries | 100+ | 120+ | 150+ |
