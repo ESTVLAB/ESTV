@@ -4,6 +4,19 @@ All notable changes to the ESTV project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.3.0] - 2026-02-26
+
+### Added
+- **Foundation Wallet Addresses** - All 8 category Squads multisig wallets publicly disclosed
+- On-chain transparency for token allocation tracking
+
+### Fixed
+- Community TGE corrected: 3% → 0%
+- Early Participants TGE corrected: 5% → 0%, cliff: 12mo → 4mo
+- Liquidity vesting corrected: 12-24mo → 24mo
+
+---
+
 ## [1.2.0] - 2026-02-26
 
 ### Milestone
