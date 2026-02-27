@@ -48,6 +48,7 @@ ESTV token has been designed with regulatory compliance in mind:
 2. **No Profit Expectation**: Value derived from utility, not investment returns
 3. **Decentralized Utility**: Functions within platform ecosystem
 4. **Non-Security Analysis**: Designed per SEC Howey Test framework
+5. **Treasury Transparency**: All foundation wallet addresses publicly disclosed for on-chain verification
 
 ### Jurisdictional Compliance
 
