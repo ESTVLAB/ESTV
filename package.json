@@ -1,6 +1,6 @@
 {
   "name": "estv-token",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "ESTV Token - Next-Generation Esports & Media Platform",
   "scripts": {
     "build": "anchor build",
