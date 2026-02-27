@@ -150,8 +150,9 @@ async function transferESTV(
 ### Price Data
 
 Available on:
-- CoinGecko API (upon listing)
-- CoinMarketCap API (upon listing)
+- **BitMart** — ESTV/USDT (Live)
+- CoinGecko API (registration pending)
+- CoinMarketCap API (registration pending)
 - DEX aggregators (Raydium, Jupiter)
 
 ---
