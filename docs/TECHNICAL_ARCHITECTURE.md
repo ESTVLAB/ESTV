@@ -241,11 +241,13 @@ Solana Settlement
 - Millions of concurrent users
 - Real-time engagement processing
 - Sub-second transaction finality
+- Squads multisig treasury management
 
 ### Future Expansion
 - Horizontal scaling of collection layer
 - Regional PoE engine deployment
 - Cross-chain bridge consideration
+- SDK/API for third-party integrations
 
 ---
 
