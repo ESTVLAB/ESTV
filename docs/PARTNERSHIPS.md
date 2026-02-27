@@ -52,11 +52,20 @@
 - YouTube
 - Twitch
 
+## Exchange Partners
+
+| Exchange | Pair | Status |
+|----------|------|--------|
+| **BitMart** | ESTV/USDT | 🟢 Live |
+
+*Additional exchange listings planned for Q2 2026.*
+
 ## Technology Partners
 
 ### Blockchain & Web3
 - Solana Foundation
 - Anchor Framework
+- Squads Protocol (Treasury Multisig)
 
 ### Infrastructure
 - Google CDN
