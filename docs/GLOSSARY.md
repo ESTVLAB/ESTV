@@ -11,8 +11,14 @@ A data structure used to efficiently verify data integrity. ESTV uses Merkle tre
 ### Multi-sig
 Multi-signature wallet requiring multiple approvals for transactions, used for security.
 
+### Squads Protocol
+Solana-native multisig platform used by ESTV Foundation for treasury management. Enables secure multi-party approval for token transfers.
+
 ### TPS
 Transactions Per Second - Solana supports high TPS for scalable operations.
+
+### CEX (Centralized Exchange)
+Traditional cryptocurrency exchange operated by a company (e.g., BitMart, Binance). ESTV is listed on BitMart as its first CEX.
 
 ## ESTV Platform Terms
 
