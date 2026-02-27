@@ -6,6 +6,8 @@
 
 #### Week 4 (Feb 24-28)
 - **🔥 BitMart Listing LIVE** - ESTV/USDT trading launched Feb 26, 19:00 KST (10:00 UTC)
+- **Foundation Wallets Published** - All 8 category wallet addresses publicly disclosed for on-chain transparency
+- **Tokenomics Updated** - Corrected vesting terms for Community, Early Participants, and Liquidity categories
 - **CertiK Audit Initiated** - RFQ submitted for smart contract audit & KYC verification
 - **GitHub Repository Launch** - Official ESTV token repository published
 - **Documentation Complete** - Full technical and legal documentation available
