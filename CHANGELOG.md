@@ -4,6 +4,18 @@ All notable changes to the ESTV project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.2.0] - 2026-02-26
+
+### Milestone
+- **ESTV/USDT Trading Live on BitMart** - First CEX listing
+
+### Changed
+- Updated all documentation to reflect live trading status
+- Exchange listing status: Confirmed → Live
+- Development Q1 progress updated to 75%
+
+---
+
 ## [1.1.0] - 2026-02-25
 
 ### Added
