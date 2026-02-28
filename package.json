@@ -30,7 +30,7 @@
   "devDependencies": {
     "@coral-xyz/anchor": "^0.30.0",
     "@solana/web3.js": "^1.95.0",
-    "@types/node": "^20.0.0",
+    "@types/node": "^25.3.2",
     "typescript": "^5.0.0",
     "prettier": "^3.0.0",
     "eslint": "^8.0.0"
