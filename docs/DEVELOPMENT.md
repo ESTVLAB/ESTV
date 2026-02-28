@@ -36,8 +36,8 @@
 
 | Metric | Value | Updated |
 |--------|-------|---------|
-| Smart Contract Lines | 292 | Feb 24 |
-| Documentation Files | 19 | Feb 25 |
+| Smart Contract Lines | 293 | Feb 28 |
+| Documentation Files | 19 | Feb 28 |
 | Test Coverage | - | Pending |
 | Audit Status | Scheduled | Q1 2026 |
 
@@ -56,10 +56,11 @@
 ## Contributor Activity
 
 ```
-Recent commits: 30+
+Recent commits: 75+
 Active contributors: 1
 Documentation pages: 19+
 Exchange listings: 1 (BitMart)
+Foundation wallets: 8 (Squads multisig)
 ```
 
 ---
