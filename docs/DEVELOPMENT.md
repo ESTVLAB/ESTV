@@ -85,4 +85,4 @@ Exchange listings: 1 (BitMart)
 
 ---
 
-*Updated: February 26, 2026*
+*Updated: February 28, 2026*
