@@ -17,7 +17,7 @@
 - **README Enhanced** - Documentation section added with quick navigation links
 
 #### Week 3 (Feb 17-23)
-- **Bitmarket Listing Preparation** - Exchange listing process initiated
+- **BitMart Listing Preparation** - Exchange listing process initiated
 - **Whitepaper Finalized** - Official whitepaper v1.0 released
 
 ---
