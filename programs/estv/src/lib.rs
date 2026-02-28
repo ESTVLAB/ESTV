@@ -2,14 +2,15 @@ use anchor_lang::prelude::*;
 
 declare_id!("7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY");
 
-/// ESTV Token Program
+/// ESTV Token Program v1.3.0
 ///
 /// This program manages the ESTV token ecosystem including:
-/// - Merkle root commitments for PoE rewards
-/// - Reward claiming with proof verification
-/// - Administrative functions
+/// - Merkle root commitments for PoE (Proof of Engagement) rewards
+/// - Reward claiming with cryptographic proof verification
+/// - Administrative functions (pause/unpause)
 ///
-/// Security: Multi-sig admin, timelock for critical operations
+/// Security: Multi-sig admin (Squads Protocol), timelock for critical operations
+/// Treasury: Foundation wallets managed via Squads multisig
 #[program]
 pub mod estv {
     use super::*;
