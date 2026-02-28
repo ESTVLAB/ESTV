@@ -55,3 +55,6 @@ Thumbs.db
 # Solana
 test-ledger/
 .anchor/
+
+# Claude Code
+.claude/
