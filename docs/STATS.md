@@ -1,15 +1,15 @@
 # Repository Statistics
 
-*Updated: 2026-02-26*
+*Auto-generated on 2026-02-28*
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 48+ |
-| Documentation Files | 19 |
+| Total Files | 50 |
+| Documentation Files | 17 |
 | Lines of Code (Rust) | 292 |
-| Total Commits | 35+ |
+| Total Commits | 73 |
 | Exchange Listings | 1 (BitMart) |
-| Last Updated | 2026-02-26 |
+| Last Updated | 2026-02-28 |
 
 ## Project Milestones
 
@@ -23,18 +23,18 @@
 ## Commit Activity (Recent)
 
 ```
-7806e30 docs: Add v1.3.0 - wallet disclosure and tokenomics corrections
-36d1ec5 docs: Add BitMart listing to press releases
-3654a69 feat: BitMart ESTV/USDT listing goes live today
-59435d0 feat: Add BitMart exchange listing - Feb 26 19:00 KST
-41946ac docs: Add Squads multisig treasury security info
-23d9d10 docs: Add documentation section with links to README
-4322593 ci: Add GitHub Actions workflows
-c519537 Add exchange listing support and automation
-d59ac83 Update README with language toggle
-e3fd5b9 Initial release: ESTV Token repository setup
+409dfd6 feat: Enhance stats script with commit count and milestones
+2070eb0 feat: Add foundation wallet addresses to token checker script
+548f5ac ci: Bump Solana to 1.18.0 and Anchor to 0.30.0
+3c83e5d docs: Update timestamps to February 28
+7a31540 fix: Correct Bitmarket typo to BitMart in NEWS
+bd8685f docs: Update KPI metrics in roadmap
+b0224fc chore: Bump package version to 1.3.0
+a4dddb7 chore: Bump development prerequisites versions
+c5048e4 fix: Update circulating supply from TBD to 10M in exchange listing
+d35611d docs: Update media descriptions with BitMart trading status
 ```
 
 ## Contributors
 
-    35+	ESTVLAB
+    73	root
