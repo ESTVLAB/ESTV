@@ -68,11 +68,12 @@ Foundation wallets: 8 (Squads multisig)
 ## Development Roadmap
 
 ```
-2026 Q1  ██████████████░░  75%
+2026 Q1  █████████████░░░  80%
          ├─ Token launch ✅
          ├─ Documentation ✅
-         ├─ Security audit ⏳
-         └─ Exchange listing ✅ (BitMart)
+         ├─ Squads treasury ✅
+         ├─ Exchange listing ✅ (BitMart)
+         └─ Security audit ⏳ (CertiK RFQ)
 
 2026 Q2  ░░░░░░░░░░░░░░░░  0%
          ├─ PoE program
