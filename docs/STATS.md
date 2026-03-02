@@ -1,15 +1,15 @@
 # Repository Statistics
 
-*Auto-generated on 2026-02-28*
+*Auto-generated on 2026-03-02*
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 50 |
+| Total Files | 49 |
 | Documentation Files | 17 |
-| Lines of Code (Rust) | 292 |
-| Total Commits | 73 |
+| Lines of Code (Rust) | 293 |
+| Total Commits | 82 |
 | Exchange Listings | 1 (BitMart) |
-| Last Updated | 2026-02-28 |
+| Last Updated | 2026-03-02 |
 
 ## Project Milestones
 
@@ -23,18 +23,19 @@
 ## Commit Activity (Recent)
 
 ```
+9fde5df docs: Update Q1 roadmap progress to 80%
+9127168 chore: Add .claude/ to gitignore
+e9aef6e chore: Bump Cargo.toml to v1.3.0 and Anchor deps to 0.30.0
+fa38ad1 chore: Pin Anchor toolchain version to 0.30.0
+e2cbbcd docs: Refresh development metrics and commit count
+8e6f769 docs: Update smart contract header with v1.3.0 and Squads reference
+966da49 chore: Bump IDL version to 1.3.0
+ab32fbc chore: Bump Anchor to 0.30.0 and web3.js to 1.95.0
+bc1ded8 chore: Update repository statistics - 73 commits, 50 files
 409dfd6 feat: Enhance stats script with commit count and milestones
-2070eb0 feat: Add foundation wallet addresses to token checker script
-548f5ac ci: Bump Solana to 1.18.0 and Anchor to 0.30.0
-3c83e5d docs: Update timestamps to February 28
-7a31540 fix: Correct Bitmarket typo to BitMart in NEWS
-bd8685f docs: Update KPI metrics in roadmap
-b0224fc chore: Bump package version to 1.3.0
-a4dddb7 chore: Bump development prerequisites versions
-c5048e4 fix: Update circulating supply from TBD to 10M in exchange listing
-d35611d docs: Update media descriptions with BitMart trading status
 ```
 
 ## Contributors
 
-    73	root
+    82	root
+     5	dependabot[bot]
