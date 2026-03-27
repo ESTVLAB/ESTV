@@ -2,6 +2,13 @@
 
 ## 2026
 
+### March 2026
+
+#### Week 4 (Mar 24-27)
+- **🔥 MEXC Listing LIVE** - ESTV/USDT trading launched Mar 26, 19:00 KST (10:00 UTC)
+
+---
+
 ### February 2026
 
 #### Week 4 (Feb 24-28)
@@ -36,6 +43,7 @@
 ### Q1 2026
 - [ ] Security audit completion (CertiK/Hacken)
 - [x] Exchange listing (BitMart - Feb 26, 2026)
+- [x] Exchange listing (MEXC - Mar 26, 2026)
 - [ ] CertiK smart contract audit (RFQ submitted)
 - [ ] CoinMarketCap / CoinGecko registration
 
@@ -65,4 +73,4 @@
 
 ---
 
-*Last updated: February 28, 2026*
+*Last updated: March 26, 2026*

@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/Audit-Scheduled-orange?style=for-the-badge" alt="Audit"/>
   <img src="https://img.shields.io/badge/Exchange-BitMart-00B897?style=for-the-badge" alt="BitMart"/>
+  <img src="https://img.shields.io/badge/Exchange-MEXC-0B57D0?style=for-the-badge" alt="MEXC"/>
 </p>
 
 <p align="center">
@@ -59,6 +60,7 @@
 | Exchange | Pair | Status |
 |----------|------|--------|
 | **BitMart** | ESTV/USDT | 🟢 Live (Feb 26, 2026) |
+| **MEXC** | ESTV/USDT | 🟢 Live (Mar 26, 2026) |
 
 ### View on Explorers
 

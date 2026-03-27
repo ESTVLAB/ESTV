@@ -4,6 +4,17 @@ All notable changes to the ESTV project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.4.0] - 2026-03-26
+
+### Milestone
+- **ESTV/USDT Trading Live on MEXC** - Second CEX listing
+
+### Changed
+- Updated exchange listing documentation to reflect MEXC live trading status
+- Updated NEWS with March 2026 MEXC listing announcement
+
+---
+
 ## [1.3.0] - 2026-02-26
 
 ### Added
