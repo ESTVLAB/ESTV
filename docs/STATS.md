@@ -1,15 +1,15 @@
 # Repository Statistics
 
-*Auto-generated on 2026-03-26*
+*Auto-generated on 2026-03-30*
 
 | Metric | Value |
 |--------|-------|
 | Total Files | 49 |
 | Documentation Files | 17 |
 | Lines of Code (Rust) | 293 |
-| Total Commits | 108 |
+| Total Commits | 109 |
 | Exchange Listings | 1 (BitMart) |
-| Last Updated | 2026-03-26 |
+| Last Updated | 2026-03-30 |
 
 ## Project Milestones
 
@@ -23,20 +23,21 @@
 ## Commit Activity (Recent)
 
 ```
-a3583c2 chore: update repository statistics [skip ci]
-01075db chore: update repository statistics [skip ci]
-2c18c1f chore: update repository statistics [skip ci]
-9fde5df docs: Update Q1 roadmap progress to 80%
-9127168 chore: Add .claude/ to gitignore
-e9aef6e chore: Bump Cargo.toml to v1.3.0 and Anchor deps to 0.30.0
-fa38ad1 chore: Pin Anchor toolchain version to 0.30.0
-e2cbbcd docs: Refresh development metrics and commit count
-8e6f769 docs: Update smart contract header with v1.3.0 and Squads reference
-966da49 chore: Bump IDL version to 1.3.0
+e39d30f docs: Announce MEXC listing — trading now live 19:00 KST
+606c271 chore: Update repository statistics after MEXC listing
+619174d docs: Post MEXC listing — update exchange status
+39cf8e2 docs: Final MEXC listing documentation pass
+c2b302b chore: Pre-listing documentation review
+3a97ab5 docs: Update roadmap — Q1 milestones at 90% completion
+79c78ae docs: MEXC listing preparation — update exchange checklist
+a432c90 chore: Update repository statistics
+d5c4dcd docs: Weekly development update — sprint 4 kickoff
+065e4af chore: Sync foundation wallet addresses verification
 ```
 
 ## Contributors
 
     82	root
-     9	dependabot[bot]
-     3	github-actions[bot]
+    23	ESTVLAB
+    10	dependabot[bot]
+     4	github-actions[bot]
