@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/ESTVLAB/ESTV/main/assets/logo-banner.png
 | Website | https://estv-token.io | ✅ |
 | Platform | https://estv.co | ✅ |
 | Twitter/X | @estvesportstv | ✅ |
-| Telegram | @estv_esportstv | ✅ |
+| Telegram | @estv_lab | ✅ |
 | GitHub | ESTVLAB/ESTV | ✅ |
 | Discord | - | Coming Soon |
 

@@ -12,7 +12,7 @@
   <a href="https://estv-token.io">웹사이트</a> •
   <a href="https://estv-token.io/wp-content/uploads/2026/02/KO_ESTV-WHITE-PAPER_Final_v0.pdf">백서</a> •
   <a href="https://twitter.com/estvesportstv">트위터</a> •
-  <a href="https://t.me/estv_esportstv">텔레그램</a>
+  <a href="https://t.me/estv_lab">텔레그램</a>
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
 | 플랫폼 | [estv.co](https://www.estv.co) |
 | 기업 | [estvlabs.com](https://www.estvlabs.com) |
 | 트위터/X | [@estvesportstv](https://twitter.com/estvesportstv) |
-| 텔레그램 | [@estv_esportstv](https://t.me/estv_esportstv) |
+| 텔레그램 | [@estv_lab](https://t.me/estv_lab) |
 | 이메일 | ir@estvlabs.com |
 
 ---

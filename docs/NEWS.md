@@ -5,6 +5,7 @@
 ### April 2026
 
 #### Week 4 (Apr 27)
+- **🦎 CoinGecko Listing Request Submitted** — Request ID `CL2704260008`, status: Listing Pending
 - **📋 Tokenomics Vesting Schedule Update** — Liquidity & Operations TGE adjusted to 12.555% to transparently reflect investment obligations (25M ESTV), market-making (90K ESTV), and BitMart listing event (20K ESTV). Total/partner/investor/user allocations unchanged. On-chain vesting contract deployment forthcoming.
 
 ---

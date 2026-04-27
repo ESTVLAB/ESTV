@@ -12,7 +12,8 @@
   <a href="https://estv-token.io">Website</a> •
   <a href="https://estv-token.io/wp-content/uploads/2026/02/KO_ESTV-WHITE-PAPER_Final_v0.pdf">Whitepaper</a> •
   <a href="https://twitter.com/estvesportstv">Twitter</a> •
-  <a href="https://t.me/estv_esportstv">Telegram</a>
+  <a href="https://t.me/estv_lab">Telegram</a> •
+  <a href="https://www.youtube.com/c/estvesportstv">YouTube</a>
 </p>
 
 <p align="center">
@@ -22,6 +23,7 @@
   <img src="https://img.shields.io/badge/Audit-Scheduled-orange?style=for-the-badge" alt="Audit"/>
   <img src="https://img.shields.io/badge/Exchange-BitMart-00B897?style=for-the-badge" alt="BitMart"/>
   <img src="https://img.shields.io/badge/Exchange-MEXC-0B57D0?style=for-the-badge" alt="MEXC"/>
+  <img src="https://img.shields.io/badge/CoinGecko-Listing%20Pending-yellow?style=for-the-badge" alt="CoinGecko"/>
 </p>
 
 <p align="center">
@@ -59,8 +61,16 @@
 
 | Exchange | Pair | Status |
 |----------|------|--------|
-| **BitMart** | ESTV/USDT | 🟢 Live (Feb 26, 2026) |
-| **MEXC** | ESTV/USDT | 🟢 Live (Mar 26, 2026) |
+| **[BitMart](https://www.bitmart.com/trade/en-US?symbol=ESTV_USDT)** | ESTV/USDT | 🟢 Live (Feb 26, 2026) |
+| **[MEXC](https://www.mexc.com/exchange/ESTV_USDT)** | ESTV/USDT | 🟢 Live (Mar 26, 2026) |
+
+### CoinGecko Listing
+
+| Field | Value |
+|-------|-------|
+| **Status** | Listing Pending |
+| **Request ID** | `CL2704260008` |
+| **Submitted** | April 27, 2026 |
 
 ### View on Explorers
 
@@ -215,7 +225,8 @@ Available on 100+ countries through major OTT platforms including Roku, Amazon F
 | Platform | [estv.co](https://www.estv.co) |
 | Corporate | [estvlabs.com](https://www.estvlabs.com) |
 | Twitter/X | [@estvesportstv](https://twitter.com/estvesportstv) |
-| Telegram | [@estv_esportstv](https://t.me/estv_esportstv) |
+| Telegram | [@estv_lab](https://t.me/estv_lab) |
+| YouTube | [ESTV Channel](https://www.youtube.com/c/estvesportstv) |
 | Email | ir@estvlabs.com |
 
 ---
