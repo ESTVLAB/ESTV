@@ -39,22 +39,22 @@ Development           █████                 50M  (5%)
 
 | Category | TGE Release | Amount |
 |----------|-------------|--------|
-| Liquidity & Ops | 5% | 10,000,000 |
-| **Total at TGE** | | **10,000,000** |
+| Liquidity & Ops | 12.555% | 25,110,000 |
+| **Total at TGE** | | **25,110,000** |
 
-> Only Liquidity & Operations (5%) is unlocked at TGE. All other categories begin at 0% TGE.
+> Only Liquidity & Operations is unlocked at TGE. TGE breakdown: 25,000,000 ESTV (investment obligations) + 90,000 ESTV (market-making) + 20,000 ESTV (BitMart listing event). All other categories begin at 0% TGE.
 
 ### Circulating Supply Schedule
 
 | Month | Circulating Supply | % of Total |
 |-------|-------------------|------------|
-| 0 (TGE) | 10,000,000 | 1.0% |
-| 4 | ~30,000,000 | ~3.0% |
-| 6 | ~55,000,000 | ~5.5% |
-| 12 | ~130,000,000 | ~13% |
-| 24 | ~380,000,000 | ~38% |
-| 36 | ~680,000,000 | ~68% |
-| 48 | ~950,000,000 | ~95% |
+| 0 (TGE) | 25,110,000 | ~2.5% |
+| 4 | ~45,000,000 | ~4.5% |
+| 6 | ~70,000,000 | ~7.0% |
+| 12 | ~145,000,000 | ~14.5% |
+| 24 | ~390,000,000 | ~39% |
+| 36 | ~690,000,000 | ~69% |
+| 48 | ~960,000,000 | ~96% |
 
 ---
 
@@ -78,8 +78,8 @@ Early         ░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░
 Ecosystem     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
               [          48mo linear             ]
 
-Liquidity     █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░
-              [5%][      24mo vest           ]
+Liquidity     ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░
+              [12.555%][    24mo vest        ]
 
 Community     ░░░░░░▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░
               [6mo ][  10mo   ]
@@ -159,7 +159,7 @@ Mint: 7GovpZ67R8t3NssZWkFE6pKL6HUVTXwkv9C1RTDADRY
 | Community | 80,000,000 (8%) | `2c2zfjZ1f8e3RuGisKEYEv1Yrwmstgy3q4HmA4o1EJPN` |
 | Development | 50,000,000 (5%) | `E8xPzrwGTbj5R2LMiwPeqXPD7mTG6rM9Svjv7jgUdAZy` |
 | Partnership & Growth | 80,000,000 (8%) | `DgtpvncHA9MT4QhoccDSVacLgEt2Jj4PMovNcxdFhbDN` |
-| Early Participants | 70,000,000 (7%) | `6c8QZ138DUXarhmXym6hDmW84V5oQvzpHDvDxpAYxEi3` |
+| Early Supporter Distribution | 70,000,000 (7%) | `6c8QZ138DUXarhmXym6hDmW84V5oQvzpHDvDxpAYxEi3` |
 | Team / Founders | 150,000,000 (15%) | `XNmi836Bz1ctTDv9Jh2puYYdVvVBUCNW6ChAUWjfSGj` |
 
 > All wallet addresses are Squads multisig wallets managed by the ESTV Foundation. On-chain verification available via Solscan or Solana Explorer.

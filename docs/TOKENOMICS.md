@@ -49,12 +49,13 @@ Development              █████ 5%
 
 #### 3. Liquidity & Operations (20% - 200,000,000 ESTV)
 - **Purpose**: DEX/CEX liquidity, operational stability, market making
-- **TGE**: 5%
+- **TGE**: 12.555% (25,110,000 ESTV)
 - **Cliff**: None
-- **Vesting**: 24 months
-- **Breakdown**:
-  - 5% at listing
-  - 15% for strategic partnerships & MM reserves
+- **Vesting**: 24 months (monthly, remainder after TGE)
+- **TGE Breakdown**:
+  - 25,000,000 ESTV — existing investment obligations
+  - 90,000 ESTV — market-making operations
+  - 20,000 ESTV — BitMart listing event
 - **Wallet**: `7g8DLJsPXoC2mHhioEczgvkc4x72ucEa5smqHoVaXukR`
 
 #### 4. Community Distribution (8% - 80,000,000 ESTV)
@@ -80,11 +81,11 @@ Development              █████ 5%
 - **Vesting**: Quarterly based on milestones
 - **Wallet**: `DgtpvncHA9MT4QhoccDSVacLgEt2Jj4PMovNcxdFhbDN`
 
-#### 7. Early Participants (7% - 70,000,000 ESTV)
+#### 7. Early Supporter Distribution (7% - 70,000,000 ESTV)
 - **Purpose**: Strategic partners, OTC deals
 - **TGE**: 0%
 - **Cliff**: 4 months
-- **Vesting**: 12 months (monthly)
+- **Vesting**: 12 months (monthly) — total lockup approx. 16 months
 - **Restrictions**: No hedging allowed
 - **Wallet**: `6c8QZ138DUXarhmXym6hDmW84V5oQvzpHDvDxpAYxEi3`
 
@@ -103,7 +104,7 @@ Month:  0   4   6   12  18  24  30  36  42  48
         │   │   │   │   │   │   │   │   │   │
 Eco     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (48mo linear)
 Long    ░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓ (24mo lock + 24mo vest)
-Liq     █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ (5% TGE + 24mo vest)
+Liq     ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ (12.555% TGE + 24mo vest)
 Comm    ░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ (6mo cliff + 10mo vest)
 Dev     ░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (12mo cliff + 36mo vest)
 Partn   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ (quarterly milestones)
@@ -112,6 +113,27 @@ Team    ░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓
 
 █ = TGE Release    ▓ = Vesting    ░ = Locked
 ```
+
+## On-Chain Vesting Enforcement
+
+Locked portions of each allocation will be placed in a publicly verifiable on-chain vesting contract. Once deployed, the contract address will be shared in a follow-up announcement.
+
+> The schedule cannot be modified, and tokens cannot be withdrawn ahead of time, at the contract level.
+
+---
+
+## Vesting Schedule Update Notice
+
+*April 27, 2026* — An adjustment was made to the vesting schedule for a portion of the Foundation and Team's reserved allocations. This update supports long-term stability and sustainable growth. The following are **not affected**:
+
+- Total supply (1,000,000,000 ESTV)
+- Category allocation ratios
+- Tokens held by users, partners, and investors
+- Ecosystem rewards (events, airdrops, staking)
+
+**Key change**: Liquidity & Operations TGE updated from 5% to 12.555% to transparently reflect immediate operational obligations (investment obligations, market-making, and exchange listing costs).
+
+---
 
 ## Token Utility
 

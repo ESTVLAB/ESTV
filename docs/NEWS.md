@@ -2,6 +2,13 @@
 
 ## 2026
 
+### April 2026
+
+#### Week 4 (Apr 27)
+- **📋 Tokenomics Vesting Schedule Update** — Liquidity & Operations TGE adjusted to 12.555% to transparently reflect investment obligations (25M ESTV), market-making (90K ESTV), and BitMart listing event (20K ESTV). Total/partner/investor/user allocations unchanged. On-chain vesting contract deployment forthcoming.
+
+---
+
 ### March 2026
 
 #### Week 4 (Mar 24-27)
@@ -73,4 +80,4 @@
 
 ---
 
-*Last updated: March 26, 2026*
+*Last updated: April 27, 2026*

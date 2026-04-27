@@ -79,12 +79,12 @@
 |----------|------------|--------|-----|-------|---------|
 | Ecosystem Rewards | 20% | 200,000,000 | 0% | 0 mo | 48 mo (monthly) |
 | Long-term Ecosystem Dev | 17% | 170,000,000 | 0% | 24 mo | 24 mo lockup |
-| Liquidity & Operations | 20% | 200,000,000 | 5% | 0 mo | 24 mo |
+| Liquidity & Operations | 20% | 200,000,000 | 12.555% | None | 24 mo (monthly) |
 | Community Distribution | 8% | 80,000,000 | 0% | 6 mo | 10 mo (monthly) |
 | Development | 5% | 50,000,000 | 0% | 12 mo | 36 mo (monthly) |
-| Partnership & Growth | 8% | 80,000,000 | 0% | 0 mo | Quarterly |
-| Early Participants | 7% | 70,000,000 | 0% | 4 mo | 12 mo (monthly) |
-| Team / Founders | 15% | 150,000,000 | 0% | 12 mo | 36 mo |
+| Partnerships & Growth | 8% | 80,000,000 | 0% | None | Quarterly |
+| Early Supporter Distribution | 7% | 70,000,000 | 0% | 4 mo | 12 mo (monthly) |
+| Team & Founders | 15% | 150,000,000 | 0% | 12 mo | 36 mo (monthly) |
 
 ---
 

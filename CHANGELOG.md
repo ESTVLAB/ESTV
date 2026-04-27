@@ -4,6 +4,23 @@ All notable changes to the ESTV project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.5.0] - 2026-04-27
+
+### Changed
+- **Liquidity & Operations TGE**: Updated from 5% to 12.555% (25,110,000 ESTV) to transparently reflect operational obligations
+  - 25,000,000 ESTV — existing investment obligations
+  - 90,000 ESTV — market-making operations
+  - 20,000 ESTV — BitMart listing event
+- Renamed "Early Participants" → "Early Supporter Distribution"
+- Renamed "Partnership & Growth" → "Partnerships & Growth"
+- Updated circulating supply projections to reflect revised TGE
+
+### Added
+- On-chain vesting enforcement notice in TOKENOMICS.md
+- Vesting schedule update notice with rationale
+
+---
+
 ## [1.4.0] - 2026-03-26
 
 ### Milestone
