@@ -1,15 +1,15 @@
 # Repository Statistics
 
-*Auto-generated on 2026-05-11*
+*Auto-generated on 2026-05-18*
 
 | Metric | Value |
 |--------|-------|
 | Total Files | 49 |
 | Documentation Files | 17 |
 | Lines of Code (Rust) | 293 |
-| Total Commits | 138 |
+| Total Commits | 139 |
 | Exchange Listings | 1 (BitMart) |
-| Last Updated | 2026-05-11 |
+| Last Updated | 2026-05-18 |
 
 ## Project Milestones
 
@@ -23,6 +23,7 @@
 ## Commit Activity (Recent)
 
 ```
+86c9eb1 chore: update repository statistics [skip ci]
 35e7707 chore: update repository statistics [skip ci]
 64a388e docs: CoinGecko listing submission + Telegram handle update
 5ce9d4b docs: Tokenomics vesting schedule update — Liquidity TGE revised to 12.555%
@@ -32,12 +33,11 @@ e8eeac1 chore: Update repository statistics — Q2 April week 3
 11a44f8 docs: Pre-weekend sync — roadmap progress at 95%
 67c80fe chore: Refresh STATS.md with latest commit activity
 6ab5d93 docs: Update exchange listing status — dual CEX live
-c24fbaa docs: Tokenomics review — vesting schedule Q2 check
 ```
 
 ## Contributors
 
     82	root
     46	ESTVLAB
+    11	github-actions[bot]
     10	dependabot[bot]
-    10	github-actions[bot]
